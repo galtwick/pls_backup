@@ -12,8 +12,8 @@ importers:
         specifier: ^2.11.8
         version: 2.11.8
       '@vulpemventures/secp256k1-zkp':
-        specifier: ^3.2.1
-        version: 3.2.1
+        specifier: ^3.1.0
+        version: 3.1.0
       bitcoinjs-lib:
         specifier: ^6.1.5
         version: 6.1.5
